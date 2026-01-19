@@ -84,4 +84,4 @@ Feedback and suggestions are welcome. This project is part of my growing data an
 Junior Data Analyst | Excel • Data Analytics • Data Storytelling  
 
 🔗 LinkedIn: https://www.linkedin.com/in/oziowuh-emmanuel  
-🔗 GitHub: https://github.com/your-github-username
+🔗 GitHub: https://github.com/your/NENE-202
