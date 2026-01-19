@@ -72,7 +72,7 @@ This dashboard solves these problems by providing a **clear, visual summary of s
 
 ## 📈 Dashboard Preview
 ![Dashboard](screenshots/dashboard.png)  
-![Pivot Table](https://github.com/NENE-202/retail-sales-performance-dashboard/blob/main/Retail%20Sales%20--pivot-table.png)
+![Pivot Table](retail/sales/performance/dashboard.png)
 
 ---
 
