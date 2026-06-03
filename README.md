@@ -80,8 +80,9 @@ This dashboard solves these problems by providing a **clear, visual summary of s
 Feedback and suggestions are welcome. This project is part of my growing data analytics portfolio.
 
 ## 👤 Author
-**Esther Oziowuh Emmanuel**  
+**Esther O. Emmanuel**  
 Junior Data Analyst | Excel • Data Analytics • Data Storytelling  
 
-🔗 LinkedIn: https://www.linkedin.com/in/oziowuh-emmanuel  
+🔗 LinkedIn: https://www.linkedin.com/in/esther-emmanuel-654034292?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
 🔗 GitHub: https://github.com/your/NENE-202
